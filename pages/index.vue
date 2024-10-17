@@ -20,7 +20,7 @@
                 <div v-for="(produk, i) in produks" :key="i" class="col-lg-4 col-md-6 mb-3">
                     <div class="card">
                         <NuxtLink class="btn bg-abu btn-lg rounded-2"
-                            :to="`https://wa.me/6285724948649?text= Halo saya ingin pesan bouquet: ${produk.nama} ${produk.harga}. https://onlinebouket.com`"
+                            :to="`https://wa.me/6285724948649?text= Halo saya ingin pesan bouquet: ${produk.nama} ${produk.harga}. https://tefa-olshop.vercel.app/`"
                             target="_blank">
                             <img :src="produk.cover" class="card-img-top" alt="Category Image"
                                 style="object-fit: cover;">
