@@ -3,7 +3,7 @@
     <nav class="navbar bg-white navbar-expand-lg bg-body-tertiary">
         <a class="navbar-brand font-bold" href="#"><b>Tita Bouquet</b></a>
       <div class="navigasi">
-        <a href="#produk">Produk Kami</a>
+        <a href="#produk">Our Products</a>
         <a href="#kategori">Kategori</a>
       </div>
     </nav>
