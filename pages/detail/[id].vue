@@ -31,7 +31,7 @@
       </div>
       <div class="navigasi">
         <NuxtLink class="btn bg-abu btn-lg rounded-5"
-        :to="`https://wa.me/6285724948649?text=Halo saya ingin pesan bouquet: ${detail.judul}. https://onlinebouket.com/detail/${detail.id}`"
+        :to="`https://wa.me/6285724948649?text=Halo saya ingin pesan bouquet: ${detail.judul}. https://titabouquet.vercel.app/${detail.id}`"
         target="_blank">
         <button style="background-color: transparent; border: none;">
           <img src="~/assets/img/whatsapp.png" alt="whatsapp" style="width: 30px; height: 30px;">
